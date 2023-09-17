@@ -1,5 +1,5 @@
 def Add(a, b):
-        return a + b+6
+        return a + b
         
 def SayHello():
         print("sup world from srcmake")
